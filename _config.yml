@@ -1,7 +1,8 @@
-title: "Affiliates"
+title: "PK Travel Guide"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+url: "https://pkguide.github.io"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
